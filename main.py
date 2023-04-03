@@ -1,5 +1,5 @@
-def hello():
-  return "Hello World"
+input_field=input()
 
-if __name__=="__main__":
-  hello()
+output=input_field
+
+print(output)
